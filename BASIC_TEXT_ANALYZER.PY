@@ -19,4 +19,5 @@ ltrs_list.append(ltrs[2])
 ltrs_list.append(ltrs[4])
 print(ltrs_list)
 
+print(f"La letra {ltrs_list[0]} se repite {txt.count(ltrs_list[0])} veces" )
 
